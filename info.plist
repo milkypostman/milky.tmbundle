@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Milky</string>
+	<key>ordering</key>
+	<array>
+		<string>4518F5ED-EB85-407C-A87E-50A6005D572D</string>
+		<string>F6A059EC-D627-4C5C-B05D-651C97DB1E79</string>
+		<string>E274B6AD-9D24-4B3F-9D03-736CD3AEFAE0</string>
+		<string>09DFB974-7FA8-4459-B247-99BCC6E4F1DF</string>
+		<string>5A7D0E46-92CE-43A4-8E77-AE9C007FBED7</string>
+		<string>CEAA0BD5-9D58-4AD2-AC78-C33DE54C3E9A</string>
+	</array>
+	<key>uuid</key>
+	<string>E812B9BD-31B3-4C7E-9476-334D8DB537E5</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:parser}.add_option("-${2:x}", dest="${3:option}", type="${4:int}", default="${5:0}", help="${6:N/A}")$0</string>
+	<key>name</key>
+	<string>OptParse Value</string>
+	<key>scope</key>
+	<string>source.python</string>
+	<key>tabTrigger</key>
+	<string>optval</string>
+	<key>uuid</key>
+	<string>09DFB974-7FA8-4459-B247-99BCC6E4F1DF</string>
+</dict>
+</plist>
